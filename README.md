@@ -1,6 +1,6 @@
 ##  Hi , I'm Urmi ✨
 
-- BBA [CA] Student <br/>
+- BCA Grad <br/>
 -  Data Science enthusiast with passion for UI/UX and AI/Ml <br/>
 - Exploring to blend data and design <br/>
 
