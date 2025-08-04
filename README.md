@@ -1,8 +1,8 @@
 ##  Hi , I'm Urmi ✨
 
-- BBA[CA] Student <br/>
-- Aspiring Data scientist with curiosity in UI/UX  <br/>
-- Exploring to blend data and design  <br/>
+- BBA [CA] Student <br/>
+-  Data Science enthusiast with passion for UI/UX and AI/Ml <br/>
+- Exploring to blend data and design <br/>
 
 
 # 💻 Tech Stack:
